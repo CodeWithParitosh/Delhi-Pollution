@@ -1,2 +1,3 @@
-# Production Serverless Web Application
+# Production dependencies
 flask>=2.3.0
+gunicorn
