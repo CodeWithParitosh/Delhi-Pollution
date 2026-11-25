@@ -1,0 +1,24 @@
+# Raw satellite AOD data
+aod/
+
+# Large datasets
+*.h5
+*.hdf
+*.nc
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints & backups
+.ipynb_checkpoints/
+*_backup.ipynb
+
+# Environment
+.venv/
+venv/
+env/
+
+# Scratch helper scripts
+check_notebook.py
+clean_notebook.py
